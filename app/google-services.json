@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124753971707",
+    "firebase_url": "https://smarthome-627c8.firebaseio.com",
+    "project_id": "smarthome-627c8",
+    "storage_bucket": "smarthome-627c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124753971707:android:fd9d50007717ea6216a35e",
+        "android_client_info": {
+          "package_name": "com.example.rishi.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124753971707-fhcen53qljmst6ra14qm3bc6osdsfql5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishi.smarthome",
+            "certificate_hash": "0ccced76a32c57a8f21b51071b0306b391493f9b"
+          }
+        },
+        {
+          "client_id": "124753971707-bqs2sdace4a8801bbh2ueaag51jj2qjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIavDZQZD675YpXHXYaVGgVH9i-R-GdTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124753971707-bqs2sdace4a8801bbh2ueaag51jj2qjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
